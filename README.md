@@ -7,15 +7,15 @@ I'm a 22 year-old Full Stack Developer from Utah, United States of America. I ha
 
 { name: Cody, age: 22 }
 
-Languages / Frameworks:
-Html
-Css/Css-PreProcessors
-Javascript
-Django
-Wordpress
-PHP
-Python
-Grunt.JS
+Languages / Frameworks:<br/>
+Html<br/>
+Css/Css-PreProcessors<br/>
+Javascript<br/>
+Django<br/>
+Wordpress<br/>
+PHP<br/>
+Python<br/>
+Grunt.JS<br/>
 
 
 
