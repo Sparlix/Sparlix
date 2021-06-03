@@ -8,7 +8,6 @@ I'm a 22 year-old Full Stack Developer from Utah, United States of America. I ha
 { name: Cody, age: 22 }
 
 Languages / Frameworks:
-
 Html
 Css/Css-PreProcessors
 Javascript
@@ -17,5 +16,6 @@ Wordpress
 PHP
 Python
 Grunt.JS
+
 
 
