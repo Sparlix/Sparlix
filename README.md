@@ -17,6 +17,7 @@ Wordpress<br/>
 PHP<br/>
 Python<br/>
 Grunt.JS<br/>
+Vue.JS<br/>
 
 
 
