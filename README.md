@@ -6,6 +6,8 @@
 -->
 I'm a 22 year-old Full Stack Developer from Utah, United States of America. I have a passion for creating efficient, optimized, and responsive websites using the latest technologies available.
 
+Founder @ Sparlix Studios LLC | Hostosis DBA
+
 { name: Cody, age: 22 }
 
 Languages / Frameworks:<br/>
