@@ -8,7 +8,7 @@ I'm a 23 year-old Full Stack Developer from Utah, United States of America. I ha
 
 { name: Cody, age: 23 }
 
-Languages / Frameworks:
+📜Languages / Frameworks:
 Html/Css/SCSS<br/>
 Javascript/Jquery/Json<br/>
 Django//Python<br/>
@@ -18,33 +18,19 @@ PHP<br/>
 Vue.JS<br/>
 React<br/>
 
-
-Databases/Other:
+👨‍💻Databases/Other:
 MySQL/SQLite<br/>
 Postgres<br/>
 Firebase<br/>
 Figma/Zeplin/Adobe<br/>
 
-CMS/Hosting Experience:
-
+👷‍♂️CMS/Hosting Experience:
 Wordpress<br/>
-Xenforo<br/>
 Netlify<br/>
 AEM<br/>
 Docker<br/>
-DigitalOcean<br/>
 AWS<br/>
-
-WHMCS<br>
-WHM<br>
 Pantheon<br>
-WpEngine<br>
-Cpanel<br>
-
-
-
-Founder/CEO @ Dwelingo LLC
-Founder Sparlix Studios LLC 
 
 
 
