@@ -4,22 +4,53 @@
 **Sparlix/Sparlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-I'm a 22 year-old Full Stack Developer from Utah, United States of America. I have a passion for creating efficient, optimized, and responsive websites using the latest technologies available.
+I'm a 23 year-old Full Stack Developer from Utah, United States of America. I have a passion for creating efficient, optimized, and responsive websites using the latest technologies.
 
-Founder @ Sparlix Studios LLC | Hostosis DBA
+{ name: Cody, age: 23 }
 
-{ name: Cody, age: 22 }
-
-Languages / Frameworks:<br/>
-Html<br/>
-Css/Css-PreProcessors<br/>
-Javascript<br/>
-Django<br/>
-Wordpress<br/>
+#Languages / Frameworks:
+Html/Css/SCSS<br/>
+Javascript/Jquery/Json<br/>
+Django//Python<br/>
+Bootstrap/Gutenburg<br/> 
+Gulp/Grunt.js<br/>
 PHP<br/>
-Python<br/>
-Grunt.JS<br/>
 Vue.JS<br/>
+React<br/>
+
+
+#Databases/Other:
+MySQL/SQLite<br/>
+Postgres<br/>
+Firebase<br/>
+Figma/Zeplin/Adobe<br/>
+
+#CMS/Hosting Experience:
+Wordpress<br/>
+Xenforo<br/>
+Netlify<br/>
+AEM<br/>
+Docker<br/>
+DigitalOcean<br/>
+AWS<br/>
+----
+WHMCS<br>
+WHM<br>
+Pantheon<br>
+WpEngine<br>
+Cpanel<br>
+
+
+
+Founder/CEO @ Dwelingo LLC
+Founder Sparlix Studios LLC 
+
+
+
+
+
+
+
 
 
 
