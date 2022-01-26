@@ -9,6 +9,7 @@ I'm a 23 year-old Full Stack Developer from Utah, United States of America. I ha
 { name: Cody, age: 23 }
 
 📜Languages / Frameworks:
+
 Html/Css/SCSS<br/>
 Javascript/Jquery/Json<br/>
 Django//Python<br/>
@@ -19,12 +20,14 @@ Vue.JS<br/>
 React<br/>
 
 👨‍💻Databases/Other:
+
 MySQL/SQLite<br/>
 Postgres<br/>
 Firebase<br/>
 Figma/Zeplin/Adobe<br/>
 
 👷‍♂️CMS/Hosting Experience:
+
 Wordpress<br/>
 Netlify<br/>
 AEM<br/>
