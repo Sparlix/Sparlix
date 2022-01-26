@@ -26,6 +26,7 @@ Firebase<br/>
 Figma/Zeplin/Adobe<br/>
 
 CMS/Hosting Experience:
+
 Wordpress<br/>
 Xenforo<br/>
 Netlify<br/>
@@ -33,7 +34,7 @@ AEM<br/>
 Docker<br/>
 DigitalOcean<br/>
 AWS<br/>
-----
+
 WHMCS<br>
 WHM<br>
 Pantheon<br>
