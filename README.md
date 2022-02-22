@@ -13,7 +13,7 @@ I'm a 23 year-old Full Stack Developer from Utah, United States of America. I ha
 Html/Css/SCSS<br/>
 Javascript/Jquery/Json<br/>
 Django//Python<br/>
-Bootstrap/Gutenburg<br/> 
+Bootstrap/Gutenberg<br/> 
 Gulp/Grunt.js<br/>
 PHP<br/>
 Vue.JS<br/>
