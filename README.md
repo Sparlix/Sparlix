@@ -4,9 +4,9 @@
 **Sparlix/Sparlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-I'm a 23 year-old Front End Developer from Utah, United States of America. I have a passion for creating efficient, optimized, and responsive websites using the latest technologies.
+I'm a 25 year-old Front End Developer from Las Vegas, United States of America. I have a passion for creating efficient, optimized, and responsive websites using the latest technologies.
 
-{ name: Cody, age: 23 }
+{ name: Cody, age: 25 }
 
 📜Languages / Frameworks:
 
